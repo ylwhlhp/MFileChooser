@@ -1,0 +1,27 @@
+{
+  "name": "MFileChooser",
+  "version": "1.0.0",
+  "description": "MFileChooser",
+  "cordova": {
+    "id": "MFileChooser",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xJeneKx/MFileChooser.git"
+  },
+  "keywords": [
+    "cordova",
+    "plugin",
+    "phonegap",
+    "ionic"
+  ],
+  "author": "xJeneK",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xJeneKx/MFileChooser/issues"
+  },
+  "homepage": "https://github.com/xJeneKx/MFileChooser#readme"
+}
